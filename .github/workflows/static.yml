@@ -42,5 +42,5 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         - name: Debug workspace
-        run: ls -la
+          run: ls -la
 
